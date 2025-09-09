@@ -1,0 +1,25 @@
+// letras (a-z, A-Z)
+// numeros (0-9) - mas não no começo
+// caractere _ s
+
+// let nome = "Lucas";
+// let nome1 = "Lucas";
+
+// let nome completo = "Lucas";
+// let nomeCompleto = "Lucas";
+
+// let for = 5;
+
+// let i = 25;
+// let idade = 25
+// let listaDeUsuarios= [];
+
+// function calcularMedia() {
+
+    
+// }
+
+// function buscarUsuario () {
+
+// }
+
